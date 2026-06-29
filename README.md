@@ -1,7 +1,8 @@
 <h1 align="center">Olá! Me chamo Bernardo</h1>
 
 <h3 align="center">🎓 Estudante de Ciência da Computação na FURB</h3>
-<h4 align="center">💻 Desenvolvedor Web | Back-end </h4>
+<h3 align="center">💻 Desenvolvedor Web | Back-end </h3>
+<h3 align="center">📖 Cursista no Devs2Blu - 2026 - JAVA </h3>
 
 ---
 
@@ -17,7 +18,7 @@
 ### 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,html,css,js,python,mysql,git,github,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=php,html,css,js,python,java,mysql,git,github,vscode&perline=5" />
 </p>
 
 ---
