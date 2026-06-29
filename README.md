@@ -34,9 +34,8 @@
 <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical"/>
 </p>
 
--->
-
 ---
+
 
 ### 🌎 Vamos nos conectar?
 
@@ -50,3 +49,4 @@
 </a>
 
 </p>
+-->
