@@ -22,6 +22,7 @@
 
 ---
 
+<!--
 ### 📊 Estatísticas
 
 <p align="center">
@@ -32,6 +33,8 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical"/>
 </p>
+
+-->
 
 ---
 
@@ -47,4 +50,3 @@
 </a>
 
 </p>
-
