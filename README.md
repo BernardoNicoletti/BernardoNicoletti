@@ -18,7 +18,7 @@
 ### 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,python,java,vscode,html,css,js,mysql,git,github&perline=5" />
+<img src="https://skillicons.dev/icons?i=php,python,java,vscode,mysql,html,css,js,git,github&perline=5" />
 </p>
 
 ---
